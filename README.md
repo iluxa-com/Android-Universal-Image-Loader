@@ -4,7 +4,7 @@ UIL aims to provide a powerful, flexible and highly customizable instrument for 
 
 ![Screenshot](https://github.com/nostra13/Android-Universal-Image-Loader/raw/master/UniversalImageLoader.png)
 
-## Project News
+## Project News 123
  **Upcoming changes in new UIL version (1.9.4+)**
  * Memory Cache redesign
  * Video file thumbnail support via "file:///sdcard/video.mp4"
